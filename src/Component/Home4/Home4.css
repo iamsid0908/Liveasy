@@ -1,0 +1,92 @@
+.big-border{
+    
+    height: 35vh;
+    background-color: #000066;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    
+}
+.home4{
+    margin-top: 90px;
+    
+}
+.img-logo{
+    background-image: url(./gps2\ 1.png);
+    width: 600px;
+    height: 500px;
+    background-size: cover;
+    
+   
+}
+.big-border .gps{
+    margin-right: 150px;
+    
+    margin-left: 200px;
+    color: white;
+}
+.gps2{
+    margin-left: 200px;
+    
+    width: 400px;
+    margin-right: 100px;
+    color: white;
+}
+.info{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20vh;
+}
+.info h1{
+    font-size: 50px;
+    font-weight: 500;
+
+}
+.info p{
+    
+    margin-right: 400px;
+    width: 700px;
+    font-weight: 900;
+    color: gray;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+.cheader{
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 17%;
+    height: 60px;
+}
+.cheader .llogos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cheader .llogos li{
+    margin-right:700px ;
+    list-style: none;
+
+}
+.cheader .llogos2 li{
+    
+    list-style: none;
+    width: 90px;
+    margin-left: 20px;
+    
+}
+ .cheader .llogos2 .line{
+    /* border: 2px solid black; */
+    width: 2px;
+    background-color: gray;
+    height: 20px;
+}
+.cheader2 .llogos2{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}

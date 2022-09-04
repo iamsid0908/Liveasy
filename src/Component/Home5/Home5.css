@@ -1,0 +1,14 @@
+.car{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(221, 211, 211);
+    
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 17%;
+}
+.d-block{
+    height: 500px;
+    width: 900px;
+}

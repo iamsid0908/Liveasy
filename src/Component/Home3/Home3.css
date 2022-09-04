@@ -1,0 +1,201 @@
+.con12{
+    height: 140vh;
+    align-items: center;
+    text-align: center;
+    
+}
+.how-el{
+    color: #157d04;
+}
+.con13{
+    
+    text-align: left;
+    height: 90vh;
+    display: flex;
+    
+    
+
+}
+.con13 .iphone{
+    
+    background-image: url("./1645349255iphones\ png\ \ \(1\).png");
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    box-shadow: 5px;
+    margin-left: 500px;
+}
+.con13 h3,p{
+    margin-left: 25%;    
+}
+.con13 .para{
+    margin-top: -20px;
+}
+.con13 h3{
+    margin-bottom: 20px;
+    margin: 20px;
+}
+.con13 .con131{
+    margin: 90px;
+    
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    width: 500px;
+    margin-left: 300px;
+}
+.con133{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    
+    margin-left: 30px;
+}
+.con133 h1{
+    margin-left: 10px;
+}
+.con132{
+    display: flex;
+align-items: center;
+    /* justify-content: center; */
+   
+}
+.con132 h1{
+    /* border: 2px solid black; */
+    height: 100px;
+    /* border-style: dashed; */
+    border-right: 3px dashed black;
+    margin-left: 45px;
+    
+    
+    
+
+}
+.con132 p{
+    
+    margin-right: 30px;
+    margin-left: 20px;
+    color: gray;
+    font-weight: 600;
+}
+.vi{
+    margin-left: 40px;
+    
+}
+
+.con13 .img1{
+    background-color: url("./Select.png");
+    background-size: cover;
+}
+.iphone{
+    margin: 90px;
+    margin-right: 150px;
+}
+.ready{
+    display: flex;
+    align-items: center;
+    margin-left: 37px;
+}
+.ready h3{
+    font-weight: 900;
+
+}
+.check-icon{
+    color: #2457c5;
+}
+
+.circle-icon{
+    color: #62fc00;
+   
+}
+.line1{
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.three-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.card1 h2{
+    font-weight: 900;
+}
+.card2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.card2 h2{
+    font-weight: 900;
+}
+.card3 h2{
+    font-weight: 900;
+}
+
+.card2 p{
+    font-weight: 900;
+    color: gray;
+}
+.card3 p{
+    font-weight: 900;
+    color: gray;
+}
+.card1 p{
+    font-weight: 900;
+    color: gray;
+}
+.card3{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    
+    margin-left: 100px;
+
+}
+.card1 p{
+    margin-top: 20px;
+    margin-left: 30px;
+    /* border: 2px solid gray; */
+    width: 150px;
+
+}
+.card2 p{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    width: 150px;
+
+}
+.card3 p{
+    margin-top: 30px;
+    margin-left: 30px;
+    /* border: 2px solid gray; */
+    width: 150px;
+
+}
