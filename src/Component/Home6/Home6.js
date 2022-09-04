@@ -1,16 +1,15 @@
 import React from 'react'
 import './Home6.css'
-import PlayArrowIcon from '@material-ui/icons/PlayArrow';
 import StarIcon from '@material-ui/icons/Star';
 function Home6() {
   return (
     <>
-    <div>
+    <div className='who'>
     <div className='main1'>
       <div className='data'>
-        <h1>Pay Securely.</h1>
-        <h3>Simple,Fast and Sequre</h3>
-        <h2>Payment Process is carries out conniently and worry free</h2>
+        <h2>Pay Securely.</h2>
+        <h4>Simple,Fast and Sequre</h4>
+        <h3>Payment Process is carries out conniently and worry free</h3>
       </div>
       <div className='img'><button className='pay-dn'>Payment Done!</button></div>
       
@@ -24,8 +23,8 @@ function Home6() {
                     class="checkbox" />
         <label for="switch" class="toggle">
              <div className='ship3'>
- <h1 className='ship2'>Transporter</h1>
-<h1 className='ship1'>Shipper</h1>
+ <h2 className='ship2'>Transporter</h2>
+<h2 className='ship1'>Shipper</h2>
 </div>
  
         </label>

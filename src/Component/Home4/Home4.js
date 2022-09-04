@@ -6,9 +6,9 @@ function Home4() {
   return (
     <div className='home4'>
         <div className='big-border'>
-          <h1 className='gps'>2000+ GPS Install</h1>
+          <h2 className='gps'>2000+ GPS Install</h2>
           <div className='img-logo'></div>
-          <h1 className='gps2'>Track Your Shipment with GPS tracking service</h1>
+          <h2 className='gps2'>Track Your Shipment with GPS tracking service</h2>
 
 
           

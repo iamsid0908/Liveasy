@@ -13,8 +13,8 @@ function Home3() {
       <div className='con13'>
         <div className='con131'>
           <div className='con133'>
-        <RadioButtonCheckedIcon className='circle-icon' fontSize="large"/>
-        <h1>Enter Your Details</h1>
+        <RadioButtonCheckedIcon className='circle-icon' />
+        <h3>Enter Your Details</h3>
         </div>
         <>
         <div className='con132'>
@@ -25,8 +25,8 @@ function Home3() {
         </>
 
         <div className='con133'>
-        <RadioButtonCheckedIcon className='circle-icon' fontSize="large"/>
-        <h1>Payment</h1>
+        <RadioButtonCheckedIcon className='circle-icon' />
+        <h3>Payment</h3>
         </div>
         <>
         <div className='con132'>
@@ -37,8 +37,8 @@ function Home3() {
         </>
 
         <div className='con133'>
-        <RadioButtonCheckedIcon className='circle-icon' fontSize="large"/>
-        <h1>Track Your load</h1>
+        <RadioButtonCheckedIcon className='circle-icon' />
+        <h3>Track Your load</h3>
         </div>
         <>
         <div className='con132'>
@@ -65,15 +65,15 @@ function Home3() {
 
      <div className='three-card'>
       <div className='card1'>
-        <h2>Transperancy in the Syatem</h2>
+        <h4>Transperancy in the Syatem</h4>
         <p>End to end visibility of your load</p>
       </div>
       <div className='card2'>
-        <h2>Reduse Cargo Theft</h2>
+        <h4>Reduse Cargo Theft</h4>
         <p>Liveasy GPS tracks your antime,anywheres</p>
       </div>
       <div className='card3'>
-        <h2>Transperancy in the Syatem</h2>
+        <h4>Transperancy in the Syatem</h4>
         <p>End to end visibility of your load</p>
       </div>
      </div>

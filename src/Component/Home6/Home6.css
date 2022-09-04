@@ -1,4 +1,7 @@
  
+ .who{
+    border: 2px solid gray;
+ }
 .main1{
     
     display: flex;
@@ -7,20 +10,21 @@
     /* border: 2px solid red; */
 }
  .data{
-    
-    margin-left: 150px;
+    margin-top: 50px;
+    margin-left: 100px;
     margin-right: 10px;
     width: 350px;
     height: 400px;
+    
  }
- .data h1{
+ .data h2{
     font-weight: 800px;
     font-size: 50px;
  }
- .data  h3{
+ .data  h4{
     color: gray;
  }
- .data  h2{
+ .data  h3{
     margin-top: 100px;
     color: #034852;
     font-weight: 700;
@@ -28,22 +32,22 @@
  .img{
 
     background-image: url("./payment\ 1.png");
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     background-size: cover;
-    margin-left: 400px;
-    margin-top: 100px;
+    margin-left: 300px;
+    margin-top: 50px;
     
  }
  .pay-dn{
     background-color: #bbffb0;
-    width: 210px;
-    height: 70px;
+    width: 170px;
+    height: 50px;
     border-radius: 20px;
     color: green;
     border: 1px solid green;
-    font-weight: 700px;
-    font-size: 25px;
+    font-weight: 500px;
+    font-size: 20px;
     margin-top: 50px;
 
  }
@@ -63,10 +67,13 @@
 .toogle{
     align-items: center;
     text-align: center;
+    
+    
 }
 .ship1{
-    margin-left: 300px;
-    margin-top: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    
 }
 
 
@@ -80,15 +87,15 @@
 .toggle {
     position : relative ;
     display : inline-block;
-    width : 800px;
-    height : 100px;
+    width : 500px;
+    height : 80px;
     background-color: #067c57;
     border-radius: 30px;
     border: 2px solid black;
 }
 .ship2{
-    margin-right: 80px;
-    margin-top: 20px;
+    /* margin-right: 30px; */
+    margin-top: 10px;
 }
 .ship3{
 display: flex;
@@ -100,29 +107,32 @@ justify-content: center;
 .toggle:after {
     content: '';
     position: absolute;
-    width: 400px;
-    height: 98px;
+    width: 250px;
+    height: 78px;
     border-radius: 30px;
     background-color: #034852;
     top: 1px;
     left: 1px;
     transition:  all 0.5s;
 }
-       
+#switch{
+    height: 80px;
+}
 
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900px;
+    font-weight: 600px;
 }
        
 
 .checkbox:checked + .toggle::after {
-    left : 400px;
+    left : 250px;
 }
        
 
 .checkbox:checked + .toggle {
     background-color: gray;
+    
 }
        
 
@@ -135,6 +145,7 @@ p {
     justify-content: center;
     
     height: 120vh;
+    margin-top: 20px;
 
 }
 
@@ -142,40 +153,42 @@ p {
     
     width: 900px;
     height: 700px;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-top: 100px;
 }
 .text11 h1{
-    font-size: 50px;
+    font-size: 33px;
     font-weight: 900;
     margin: 20px;
     color: #000066;
+    
+    width: 500px;
 }
 
 .text11 p{
-    font-size: 35px;
-    font-weight: 600;
+    font-size: 25px;
+    font-weight: 700;
     
-    margin-left: 20px;
-    margin-top: 50px;
-    height: 300px;
+    margin-left: 10px;
+    margin-top: 90px;
+    height: 200px;
 }
 .img01{
     background-image: url("./1645349255iphones\ png\ \ \(1\).png");
     background-size: cover;
-    height: 800px;
-    width: 500px;
+    height: 600px;
+    width: 400px;
     
     box-shadow: 10px;
-    margin-top: 110px;
+    margin-top: 70px;
     margin-left: 50px;
 }
 .dwn-btn{
     margin-left: 200px;
-    width: 400px;
-    height: 80px;
+    width: 300px;
+    height: 55px;
     border-radius: 20px;
-    font-size: 30px;
+    font-size: 25px;
     color: white;
     background-color: #000066;
     /* margin-right: 300px; */
@@ -191,8 +204,8 @@ p {
 .eclip{
     background-image: url("./Ellipse\ 264.png");
     background-size: cover;
-    height: 900px;
-    width: 400px;
+    height: 700px;
+    width: 300px;
     margin-left: 0px;
    
     margin-right: 290px;
@@ -215,17 +228,17 @@ button:hover{
     display: flex;
     align-items: center;
     /* justify-content: center; */
-    margin: 30px;
-    width: 1300px;
-    height: 600px;
+    margin: 20px;
+    width: 1010px;
+    height: 400px;
     box-shadow: 0 5px 10px rgb(0 0 0 / 1.5);
 }
 .card h1{
     margin: 50px;
 }
 .card h3{
-    margin-top: 250px;
-    margin-right: 900px;
+    margin-top: 100px;
+    margin-right: 600px;
 }
 .star{
     display: flex;
@@ -233,7 +246,7 @@ button:hover{
     justify-content: center;
     color: gold;
     
-    margin-right: 900px;
+    margin-right: 600px;
     font-size: 40px;
     width: 200px;
     

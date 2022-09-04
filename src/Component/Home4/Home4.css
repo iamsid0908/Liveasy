@@ -13,20 +13,20 @@
 }
 .img-logo{
     background-image: url(./gps2\ 1.png);
-    width: 600px;
-    height: 500px;
+    width: 510px;
+    height: 400px;
     background-size: cover;
     
    
 }
 .big-border .gps{
-    margin-right: 150px;
+    margin-right: 100px;
     
-    margin-left: 200px;
+    margin-left: 100px;
     color: white;
 }
 .gps2{
-    margin-left: 200px;
+    margin-left: 150px;
     
     width: 400px;
     margin-right: 100px;
@@ -46,11 +46,11 @@
 }
 .info p{
     
-    margin-right: 400px;
+    margin-right: 300px;
     width: 700px;
-    font-weight: 900;
+    font-weight: 700;
     color: gray;
-    margin-top: 50px;
+    margin-top: 30px;
     font-size: 20px;
     
 }
@@ -68,7 +68,7 @@
     justify-content: center;
 }
 .cheader .llogos li{
-    margin-right:700px ;
+    margin-right:600px ;
     list-style: none;
 
 }
@@ -84,9 +84,11 @@
     width: 2px;
     background-color: gray;
     height: 20px;
+    
 }
 .cheader2 .llogos2{
     display: flex;
     align-items: center;
     justify-self: center;
+    
 }
